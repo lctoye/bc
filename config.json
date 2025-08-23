@@ -9,5 +9,5 @@
   "theme": "flow",
   "css": "./custom.css",
   "footer": "BC Trip August 2025",
-  "usage-stats": false
+  "usage-stats": true
 }
